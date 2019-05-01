@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "242356736457",
+    "firebase_url": "https://hungerspot-40bd7.firebaseio.com",
+    "project_id": "hungerspot-40bd7",
+    "storage_bucket": "hungerspot-40bd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242356736457:android:47ff40b17bc442ee",
+        "android_client_info": {
+          "package_name": "com.feedindia.locationrx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242356736457-5b2o7a0ijuthiuluimqp6fobknesjr69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.feedindia.locationrx",
+            "certificate_hash": "1d51712e85ecd8790d62fc149fa7c3f258ae9bcb"
+          }
+        },
+        {
+          "client_id": "242356736457-etlv2af09arm3qff8rbcea829edaf192.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC50BpZ3Gsq8GjB5GRdDLxfAQd1G7ynF4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242356736457-etlv2af09arm3qff8rbcea829edaf192.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
